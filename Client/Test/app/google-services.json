@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794173131156",
+    "project_id": "wonder-box-games",
+    "storage_bucket": "wonder-box-games.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794173131156:android:add32dc0bae533a8d2a781",
+        "android_client_info": {
+          "package_name": "com.wonderboxgames.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPxaUXD89HCfoCdJFDCQHFSj16vyAJtQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

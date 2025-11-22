@@ -17,4 +17,8 @@ public class WLog {
     public static void Error(String info) {
         Log.e(Key, info);
     }
+
+    public static void Debug(String tag, String info) {
+        Log.d(tag, info);
+    }
 }

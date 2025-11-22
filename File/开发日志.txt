@@ -8,10 +8,15 @@ KeyPasword:
 	110929
 
 接入：
-	Google Analytics for Firebase（打点统计）
+	Google Analytics for Firebase（打点统计）✔
 		封装打点接口
+			一个打点接口
 	Google AdMob（广告）
 		封装广告接口
+	目前状态：
+		错误码3：Account not approved yet.
+		表示AdMob后台未审核通过，需要在应用商店可以搜到应用才可以。
+		所以下一步需要把app做好发布线上
 	Google Play Billing Library（付费）
 		封装付费接口
 	
